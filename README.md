@@ -26,7 +26,7 @@
 
 ### Tools I Have Used and Learned
 <p>
-    <img src="https://skillicons.dev/icons?i=vscode,vim,c,git,github,figma,html,css,sass,tailwindcss,js,npm,yarn,vite,react,ts,nodejs,express,mongodb,sql,cs,azure" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,c,git,github,figma,html,css,sass,tailwindcss,js,npm,yarn,vite,react,ts,nodejs,express,mongodb,sqlite,cs,azure" />
 </p>
 
 <br />
