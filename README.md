@@ -26,8 +26,9 @@
 
 ### Tools I Have Used and Learned
 <p>
-    <img src="https://skillicons.dev/icons?i=vscode,vim,ps,figma,c,html,css,scss,tailwindcss,js,nodejs,react,git,github,npm,yarn,vite,webpack,sql," />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,c,git,github,figma,html,css,sass,tailwindcss,js,npm,yarn,vite,react,ts,nodejs,express,mongodb,sql,cs,azure" />
 </p>
+
 <br />
 
 [![codewars](https://www.codewars.com/users/igorssubocs/badges/large)](https://www.codewars.com/users/igorssubocs)   
