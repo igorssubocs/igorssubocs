@@ -41,5 +41,5 @@ Description: Web site about Cristmas and gifts. It's a two pages application.
 Stack: **Figma, HTML, CSS, SASS/SCSS, JavaScript, Git**
 
 **Task Manager App [Link](https://github.com/igorssubocs/fullstack-react-todo)**  
-Description: Fullstack task management application using MERN stack.
-Stack: **Vite, React, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB**
+Description: Fullstack task management application using MERN stack.  
+Stack: **Vite, React, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB, Git**
