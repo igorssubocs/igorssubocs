@@ -39,3 +39,7 @@
 **Christmas Shop [Link](https://igorssubocs.github.io/christmas-shop/)**  
 Description: Web site about Cristmas and gifts. It's a two pages application.  
 Stack: **Figma, HTML, CSS, SASS/SCSS, JavaScript, Git**
+
+**Christmas Shop [Link](https://github.com/igorssubocs/fullstack-react-todo)**  
+Description: Fullstack task management application using MERN stack.
+Stack: **Vite, React, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB**
