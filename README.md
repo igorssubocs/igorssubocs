@@ -43,3 +43,7 @@ Stack: **Figma, HTML, CSS, SASS/SCSS, JavaScript, Git**
 **Task Manager App [Link](https://github.com/igorssubocs/fullstack-react-todo)**  
 Description: Fullstack task management application using MERN stack.  
 Stack: **Vite, React, JavaScript, Tailwind CSS, Node.js, Express.js, MongoDB, Git**
+
+**Pink Ponut Fullstack E-Commerce Application (MERN) [Link](https://ecommerce-pink-donut.vercel.app/)**  
+Description: This project simulates a real online store and covers the entire e-commerce flow - product catalog, shopping cart, checkout and payment integration.
+Stack: **React, Vite, JavaScript, React Router, Redux Toolkit, Tailwind CSS, Axios, Node.js, Express, MongoDB, Supabase, Stripe, Git (GitHub), npm, Postman, Vercel, Render**
